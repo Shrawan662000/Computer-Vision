@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# my files
+Best_Model15/
+model_0.pth/
+model_best1510.pt/
+
+
 # Distribution / packaging
 .Python
 build/
