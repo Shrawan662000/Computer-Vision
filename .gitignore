@@ -11,6 +11,8 @@ Best_Model15/
 model_0.pth/
 model_best1510.pt/
 model_finetunned_efficientnet.pth/
+Intel_model_finetunned_efficientnet.pth/
+*.pth
 
 
 # Distribution / packaging
